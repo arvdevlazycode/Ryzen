@@ -205,3 +205,5 @@
    limitations under the License.
 
 ```
+
+This is not a open-source project. ALL CONTENTS IN THIS WEBSITE IS MADE BY ```arvdevlazycode#0001```, AND I NOT MANAGE THE GDPS AND THEIR CONTENT(S) EXCEPT FOR THE WEBSITE! ALL RIGHTS SHOULD GO TO ARTURO.
